@@ -65,6 +65,13 @@
       "description": "Build a REST API with FastAPI, CRUD operations, data validation, and HTTP status codes",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-10-06"
+    },
+    {
+      "id": "python-sqlite",
+      "title": "Persistência de Dados com SQLite",
+      "description": "Use sqlite3 para criar um banco de dados e implementar operações CRUD em Python",
+      "path": "assignments/python-sqlite",
+      "dueDate": "2026-10-06"
     }
   ]
 }
